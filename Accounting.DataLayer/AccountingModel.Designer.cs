@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\AccountingModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Master Javad\Desktop\Project Files\Accounting\Accounting.DataLayer\AccountingModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
