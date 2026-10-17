@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5EEEA-37F4-405F-AC51-64792D0BC348}|Accounting.Business\\Accounting.Business.csproj|C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5EEEA-37F4-405F-AC51-64792D0BC348}|Accounting.Business\\Accounting.Business.csproj|solutionrelative:accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\acccounting.app\\report_form\\form_payreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|solutionrelative:acccounting.app\\report_form\\form_payreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Report_Form\\Form_PayReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|solutionrelative:Acccounting.App\\Report_Form\\Form_PayReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BE139-6FEB-41B3-9434-832E5F0AA2CC}|Accounting.DataLayer\\Accounting.DataLayer.csproj|c:\\users\\master javad\\desktop\\project files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\accounting\\accounting.datalayer\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BE139-6FEB-41B3-9434-832E5F0AA2CC}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|solutionrelative:Acccounting.App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Customers_Form\\Form_Customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|solutionrelative:Acccounting.App\\Customers_Form\\Form_Customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\acccounting.app\\customers_form\\form_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4BD7366-4EA1-42FE-9B17-935F997A2B2B}|Acccounting.App\\Accounting.App.csproj|solutionrelative:acccounting.app\\customers_form\\form_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Accounting.Business\\Account.cs",
+              "RelativeDocumentMoniker": "Accounting.Business\\Account.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Accounting.Business\\Account.cs",
+              "RelativeToolTip": "Accounting.Business\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:39:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_PayReport.cs",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Report_Form\\Form_PayReport.cs",
+              "RelativeDocumentMoniker": "Acccounting.App\\Report_Form\\Form_PayReport.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Report_Form\\Form_PayReport.cs",
+              "RelativeToolTip": "Acccounting.App\\Report_Form\\Form_PayReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:33:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Program.cs",
+              "RelativeDocumentMoniker": "Acccounting.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Program.cs",
+              "RelativeToolTip": "Acccounting.App\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:08:42.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Accounting.DataLayer\\Services\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Accounting.DataLayer\\Services\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Accounting.DataLayer\\Services\\CustomerRepository.cs",
+              "RelativeToolTip": "Accounting.DataLayer\\Services\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:42:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_PayReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Report_Form\\Form_PayReport.cs",
+              "RelativeDocumentMoniker": "Acccounting.App\\Report_Form\\Form_PayReport.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Report_Form\\Form_PayReport.cs [Design]",
+              "RelativeToolTip": "Acccounting.App\\Report_Form\\Form_PayReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:58:27.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Customers_Form\\Form_Customers.cs",
+              "RelativeDocumentMoniker": "Acccounting.App\\Customers_Form\\Form_Customers.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Customers_Form\\Form_Customers.cs",
+              "RelativeToolTip": "Acccounting.App\\Customers_Form\\Form_Customers.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:29:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Accounting\\Acccounting.App\\Customers_Form\\Form_Customers.cs",
+              "RelativeDocumentMoniker": "Acccounting.App\\Customers_Form\\Form_Customers.cs",
+              "ToolTip": "C:\\Users\\Master Javad\\Desktop\\Project Files\\\u067E\u0631\u0648\u0698\u0647 \u067E\u06CC\u0634\u0631\u0641\u062A\u0647 \u0633\u06CC \u0634\u0627\u0631\u067E\\Acccounting\\Acccounting.App\\Customers_Form\\Form_Customers.cs [Design]",
+              "RelativeToolTip": "..\\Acccounting\\Acccounting.App\\Customers_Form\\Form_Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:29:34.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

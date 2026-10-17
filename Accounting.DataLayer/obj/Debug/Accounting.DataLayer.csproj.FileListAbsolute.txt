@@ -1,0 +1,32 @@
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.Properties.Resources.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.GenerateResource.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.Properties.Resources.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.GenerateResource.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounti.8EA99DEA.Up2Date
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb

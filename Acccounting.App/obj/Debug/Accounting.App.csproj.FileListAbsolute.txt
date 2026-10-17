@@ -1,0 +1,76 @@
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Acccounting.App.exe.config
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Acccounting.App.exe
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Acccounting.App.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.Properties.Resources.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.exe
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\EntityFramework.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\EntityFramework.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.Utility.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Customers_Form.Form_JoinandEdit.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Customers_Form.Form_Customers.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Accounting_Form.Form_Accounting.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Report_Form.Form_PayReport.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.Form_Login.resources
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Acccounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Acccounting.App.exe.config
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Acccounting.App.exe
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Acccounting.App.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.Utility.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\EntityFramework.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\EntityFramework.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.exe.config
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Accounting_Form.Form_Accounting.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Customers_Form.Form_JoinandEdit.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Customers_Form.Form_Customers.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.Form_Login.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.Properties.Resources.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.Report_Form.Form_PayReport.resources
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Accounti.AC66B4A9.Up2Date
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.exe
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Acccounting.App\obj\Debug\Acccounting.App.pdb

@@ -1,0 +1,12 @@
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

@@ -1,0 +1,16 @@
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\Test1.exe.config
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\Test1.exe
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\Test1.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\EntityFramework.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\EntityFramework.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\obj\Debug\Test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\obj\Debug\Test1.exe
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Test1\obj\Debug\Test1.pdb

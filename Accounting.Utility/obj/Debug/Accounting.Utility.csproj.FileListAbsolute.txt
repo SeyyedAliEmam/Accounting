@@ -1,0 +1,12 @@
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\Users\Master Javad\Desktop\Project Files\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\Users\Master Javad\Desktop\Project Files\پروژه پیشرفته سی شارپ\Acccounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
